@@ -20,5 +20,5 @@ Creating a Pipeline to Deploy Application code from Github to a web server runni
 7. Create a Docker image and push the image to the Docker hub repo
 8. Executing ansible playbook to create a container inside the web server.
 
-# Project Diagram-
+## Project Diagram-
 DEVELOPER (PUSH CODE) >> GIT HUB >> JENKINS & MAVEN SERVER >> ANSIBLE MASTER >> DOCKER (WEBSERVER & DOCKER HUB) 
