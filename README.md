@@ -22,3 +22,4 @@ Creating a Pipeline to Deploy Application code from Github to a web server runni
 
 ### Project Diagram-
 DEVELOPER (PUSH CODE) >> GIT HUB >> JENKINS & MAVEN SERVER >> ANSIBLE MASTER >> DOCKER (WEBSERVER & DOCKER HUB) 
+MicroService_Project.jpg
