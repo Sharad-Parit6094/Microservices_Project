@@ -82,7 +82,7 @@
         <h3>Automated Deployment with Jenkins Pipeline</h3>
         <div>
             <p><strong>Status:</strong> Successful Deployment</p>
-            <p><strong>Deployed by:</strong> Rishabh</p>
+            <p><strong>Deployed by:</strong> Sharad Parit</p>
         </div>
 
         <p>During this insightful session, we delved into the potent combination of Jenkins pipelines and Docker for automating the deployment of applications.</p>
